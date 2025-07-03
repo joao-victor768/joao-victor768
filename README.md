@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=tokyonight&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=João-Victor&show_icons=true&theme=tokyonight&count_private=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=tokyonight" />
